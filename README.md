@@ -25,7 +25,7 @@
 
 6. Place the `userChrome.css` file into the `chrome` folder
 
-### Add adaptive title bar color
+### Add adaptive title bar color [Optional]
 To enable adaptive colors, you need to install the **[Adaptive Tab Bar Color](https://addons.mozilla.org/en-US/firefox/addon/adaptive-tab-bar-colour/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)**
 
 - **Adaptive Tab Bar Color settings**
