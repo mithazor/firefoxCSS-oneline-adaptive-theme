@@ -36,7 +36,7 @@ To enable adaptive colors, you need to install the **[Adaptive Tab Bar Color](ht
         - dark:`rgb 56,56,56`
 
 
-### Make beautiful custom newtab
+### Make beautiful custom newtab [Optional]
 To set up a custom new tab, you'll need to install **[nightTab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)**
 
 - **To Install My Catppuccin Config:**
