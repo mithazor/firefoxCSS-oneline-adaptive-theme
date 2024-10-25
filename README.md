@@ -1,0 +1,1 @@
+# firefoxCSS-oneline-adaptive-theme
